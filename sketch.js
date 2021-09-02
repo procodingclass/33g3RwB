@@ -13,7 +13,7 @@ function setup() {
 
 
 
-  // adding scale and position to trex
+  // adding scale to trex
   // NOTE: checkout Step 2 image inside screenshots folder
 
 
@@ -26,10 +26,8 @@ function draw() {
   //jump when space key is pressed
   // NOTE: checkout Step 4 image inside screenshots folder
 
-
   // Add gravity to trex Sprite
   // NOTE: checkout Step 3 image inside screenshots folder
-
 
   drawSprites();
 }
