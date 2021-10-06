@@ -15,6 +15,9 @@ function setup() {
 
   // adding scale to trex
   // NOTE: checkout Step 2 image inside screenshots folder
+  
+  
+  //Create a Ground Sprite
 
 
 }
@@ -29,5 +32,8 @@ function draw() {
   // Add gravity to trex Sprite
   // NOTE: checkout Step 3 image inside screenshots folder
 
+  
+  //Collide the trex with ground
+  
   drawSprites();
 }
