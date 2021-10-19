@@ -1,2 +1,2 @@
 
-Tablet-PRO-C10-Student-Activity
+Tablet-PRO-C11-Student-Activity
